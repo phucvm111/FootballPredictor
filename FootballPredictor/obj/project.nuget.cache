@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "nWFqWrl9oB0=",
+  "success": true,
+  "projectFilePath": "D:\\Du Doan Bong Da\\FootballPredictor\\FootballPredictor\\FootballPredictor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\materialdesigncolors\\5.3.0-ci1117\\materialdesigncolors.5.3.0-ci1117.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\materialdesignthemes\\5.3.0-ci1117\\materialdesignthemes.5.3.0-ci1117.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.io.pipelines\\10.0.0-rc.1.25451.107\\system.io.pipelines.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.net.http.json\\10.0.0-rc.1.25451.107\\system.net.http.json.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.encodings.web\\10.0.0-rc.1.25451.107\\system.text.encodings.web.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.json\\10.0.0-rc.1.25451.107\\system.text.json.10.0.0-rc.1.25451.107.nupkg.sha512"
+  ],
+  "logs": []
+}
